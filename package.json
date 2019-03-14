@@ -1,0 +1,23 @@
+{
+  "name": "cyclehire",
+  "version": "1.0.0",
+  "description": "Fetch cycle hire availability and add to data store.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-ahmad/cyclehire.git"
+  },
+  "keywords": [
+    "Cycle",
+    "hire"
+  ],
+  "author": "Syed Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed-ahmad/cyclehire/issues"
+  },
+  "homepage": "https://github.com/syed-ahmad/cyclehire#readme"
+}
